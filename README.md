@@ -1,2 +1,0 @@
-# strnadcode
-Created with CodeSandbox
